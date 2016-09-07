@@ -1,0 +1,11 @@
+base
+knitr
+lattice
+MASS
+FLCore
+FLash
+FLAssess
+plyr
+ggplot2
+ggplotFL
+FLXSA
